@@ -11,7 +11,7 @@ Firstly upgrade the firmware (as fast-gpio was knackered in the first few genera
     opkg install npm
 
 ### Add this module to your project
-    npm install --save omega2-gpio
+    npm install --save o2-gpio
 
 ## Usage
 ```javascript

@@ -1,11 +1,11 @@
 {
-  "name": "omega2-gpio",
-  "version": "1.2.4",
+  "name": "o2-gpio",
+  "version": "1.0.0",
   "description": "GPIO control from Node via fast-gpio",
   "main": "omega2-gpio.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/entozoon/omega2-gpio.git"
+    "url": "git@github.com:rlwhatley3/omega2-gpio.git"
   },
   "author": "michaelcook.tech",
   "license": "ISC",
