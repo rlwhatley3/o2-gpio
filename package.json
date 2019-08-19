@@ -5,7 +5,7 @@
   "main": "omega2-gpio.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rlwhatley3/omega2-gpio.git"
+    "url": "git@github.com:rlwhatley3/o2-gpio.git"
   },
   "author": "michaelcook.tech",
   "license": "ISC",
