@@ -32,9 +32,9 @@ class Omega2GpioPin {
   // Get the value (digital)
   get() {
     // Set value locally
-    if (this.mode == 'input') {
-      this.value = this.parseRead(execSync('fast-gpio read ' + this.pin).toString());
-    }
+    // if (this.mode == 'input') {
+    // }
+    this.value = this.parseRead(execSync('fast-gpio read ' + this.pin).toString());
     this.debugging && console.log('Pin ' + this.pin + ' read:  ' + this.value);
 
     // Return value
